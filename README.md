@@ -43,3 +43,4 @@ These are different. How? And Why?
 - http://beakerx.com/
 
 You get 1,000,000 extra points (each) if you find a notebook tech not listed here(!).
+![](https://github.com/DrakeDwornik/D22-AltNotebooks.git)
